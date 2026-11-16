@@ -188,6 +188,6 @@ Use the button in the Quick Start section.
 
 ---
 
-*Persona 5 Royal · Updated 2026-11-15 · Shared under the MIT License*
+*Persona 5 Royal · Updated 2026-11-16 · Shared under the MIT License*
 
-<!-- updated 2026-11-15 -->
+<!-- updated 2026-11-16 -->
